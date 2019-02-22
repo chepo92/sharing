@@ -1,0 +1,31 @@
+{
+  "state": {
+    "text": "Printing",
+    "flags": {
+      "operational": true,
+      "paused": false,
+      "printing": true,
+      "pausing": false,
+      "cancelling": false,
+      "sdReady": true,
+      "error": false,
+      "ready": true,
+      "closedOrError": false
+    }
+  },
+  "temperature": {
+    "tool0": {
+      "actual": 22.50,
+      "target": 0.00,
+      "offset": 0
+    },
+    "bed": {
+      "actual": 23.00,
+      "target": 0.00,
+      "offset": 0
+    }
+  },
+  "sd": {
+    "ready": true
+  }
+}
