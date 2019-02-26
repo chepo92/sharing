@@ -1,0 +1,51 @@
+> M190 S60
+< AutoReportTemps parsed
+< #TIMEOUT#
+> M104 S200
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< #TIMEOUT#
+> M105
+< AutoReportTemps parsed
+< Printer is busy, giving it more time
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< #TIMEOUT#
+> M109 S200
+< AutoReportTemps parsed
+< Printer is busy, giving it more time
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< #TIMEOUT#
+> M82
+< AutoReportTemps parsed
+< Printer is busy, giving it more time
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< #TIMEOUT#
+> G21
+< AutoReportTemps parsed
+< Printer is busy, giving it more time
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< #TIMEOUT#
+> G90
+< AutoReportTemps parsed
+< Printer is busy, giving it more time
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< #TIMEOUT#
+> M82
+< Printer is busy, giving it more time
+< AutoReportTemps parsed
+< #TIMEOUT#
+> M107
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< #TIMEOUT#
+> G28 X0 Y0
+< Printer is busy, giving it more time
+< AutoReportTemps parsed
+< #TIMEOUT#
+> G28 Z0
+< AutoReportTemps parsed
