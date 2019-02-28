@@ -1,0 +1,210 @@
+ M105
+< ok T:208.04 /200.00 B:59.99 /60.00 @:10 B@:63
+
+  139696
+  free heap RAM: 34040
+
+> M190 S60
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< #TIMEOUT#
+> M104 S200
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< #TIMEOUT#
+> M105
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< AutoReportTemps parsed
+< ok
+
+  145711
+  free heap RAM: 34744
+
+< ok
+
+  145713
+  free heap RAM: 33400
+
+< ok T:205.13 /200.00 B:59.99 /60.00 @:0 B@:65
+
+  145716
+  free heap RAM: 32024
+
+> M109 S200
+< ok
+
+  145746
+  free heap RAM: 36088
+
+> M82
+< ok
+
+  145754
+  free heap RAM: 33400
+
+> G21
+< New line but nothing to do with it
+< echo:Unknown command: "G21 "
+                              ok
+
+  145767
+  free heap RAM: 34056
+
+> G90
+< ok
+
+  145774
+  free heap RAM: 31384
+
+> M82
+< ok
+
+  145786
+  free heap RAM: 34056
+
+> M107
+< ok
+
+  145791
+  free heap RAM: 31368
+
+> G28 X0 Y0
+< AutoReportTemps parsed
+< New line but nothing to do with it
+< X:-33.00 Y:-10.00 Z:5.00 E:37.95 Count X:-3300 Y:-1000 Z:2000
+                                                               ok
+
+  147967
+  free heap RAM: 34664
+
+> G28 Z0
+< AutoReportTemps parsed
+< #TIMEOUT#
+> G1 Z15.0 F9000
+< AutoReportTemps parsed
+< New line but nothing to do with it
+< X:-33.00 Y:-10.00 Z:0.00 E:37.95 Count X:-3300 Y:-1000 Z:0
+                                                            ok
+
+  152091
+  free heap RAM: 34664
+
+< ok
+
+  152093
+  free heap RAM: 33368
+
+> G92 E0
+< New line but nothing to do with it
+< X:-33.00 Y:-10.00 Z:15.00 E:0.00 Count X:-3300 Y:-1000 Z:0
+                                                            ok
+
+  152109
+  free heap RAM: 30616
+
+> G1 F200 E3
+< ok
+
+  152121
+  free heap RAM: 33336
+
+> G92 E0
+< New line but nothing to do with it
+< X:-33.00 Y:-10.00 Z:15.00 E:0.00 Count X:-3300 Y:-1000 Z:9
+                                                            ok
+
+  152152
+  free heap RAM: 34616
+
+> G1 F9000
+< ok
+
+  152156
+  free heap RAM: 31976
+
+> M117 Printing...
+< ok
+
+  152172
+  free heap RAM: 31288
+
+> G92 E0
+< New line but nothing to do with it
+< X:-33.00 Y:-10.00 Z:15.00 E:0.00 Count X:-3300 Y:-1000 Z:58
+                                                             ok
+
+  152184
+  free heap RAM: 30552
+
+> G1 F1500 E-6.5
+< ok
+
+  152201
+  free heap RAM: 33288
+
+> M107
+< ok
+
+  152207
+  free heap RAM: 30584
+
+> G0 F3600 X84.623 Y84.349 Z0.3
+< ok
+
+  152254
+  free heap RAM: 35944
+
+> G1 F1500 E0
+< ok
+
+  152262
+  free heap RAM: 33240
+
+> G1 F1800 X85.222 Y83.834 E0.03941
+< ok
+
+  152272
+  free heap RAM: 30536
+
+> G1 X85.87 Y83.383 E0.0788
+< ok
+
+  152283
+  free heap RAM: 31192
+
+> G1 X86.561 Y82.999 E0.11824
+< ok
+
+  152298
+  free heap RAM: 33864
+
+> M105
+< ok T:199.41 /200.00 B:60.20 /60.00 @:16 B@:34
+
+  152310
+  free heap RAM: 34488
+
+> G1 X87.286 Y82.687 E0.15762
+< ok
+
+  152319
+  free heap RAM: 33176
+
+> G1 X88.039 Y82.45 E0.197
+< ok
+
+  152329
+  free heap RAM: 33160
+
+> G1 X88.813 Y82.291 E0.23642
+< ok
+
+  152338
+  free heap RAM: 30472
+
+> G1 X89.598 Y82.21 E0.27579
+< ok
