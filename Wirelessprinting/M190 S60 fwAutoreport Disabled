@@ -1,0 +1,19 @@
+echo:PID settings:
+echo:  M301 P22.20 I1.08 D114.00
+echo:Unknown command: "M155 S2"
+ok
+ T:24.37 /0.00 B:24.06 /60.00 @:0 B@:0 W:?
+ T:24.41 /0.00 B:23.98 /60.00 @:0 B@:0 W:?
+ T:24.37 /0.00 B:24.02 /60.00 @:0 B@:0 W:?
+echo:busy: processing
+ T:24.30 /0.00 B:23.91 /60.00 @:0 B@:0 W:?
+ T:24.37 /0.00 B:24.10 /60.00 @:0 B@:127 W:?
+echo:busy: processing
+ T:24.37 /0.00 B:24.06 /60.00 @:0 B@:127 W:?
+ T:24.41 /0.00 B:24.22 /60.00 @:0 B@:127 W:?
+echo:busy: processing
+ T:24.30 /0.00 B:24.02 /60.00 @:0 B@:127 W:?
+echo:busy: processing
+ T:24.37 /0.00 B:24.06 /60.00 @:0 B@:127 W:?
+ T:24.34 /0.00 B:24.26 /60.00 @:0 B@:127 W:?
+echo:busy: processing
